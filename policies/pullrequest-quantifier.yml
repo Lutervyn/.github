@@ -4,6 +4,7 @@ description: quantify a pull request
 
 # filters
 resource: repository
+owner: Lutervyn
 where:
 - |
   repository.name.equals("PullRequestQuantifier", StringComparison.InvariantCultureIgnoreCase)

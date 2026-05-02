@@ -1,6 +1,6 @@
 name: platform_context
 description: The context for GitOps platform, this will drive GitOps specific policies
-owner: 
+owner: Lutervyn
 resource: repository
 where: 
 configuration:
