@@ -1,6 +1,6 @@
 name: AbandonedRepo
 description: The policy to archive old repositories.
-owner: 
+owner: Lutervyn 
 resource: repository
 where: 
 configuration:

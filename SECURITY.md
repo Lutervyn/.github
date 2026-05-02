@@ -1,18 +1,18 @@
-<!-- BEGIN MICROSOFT SECURITY.MD V0.0.9 BLOCK -->
+<!-- BEGIN LUTERVYN SECURITY.MD V0.0.1 BLOCK -->
 
 ## Security
 
-Microsoft takes the security of our software products and services seriously, which includes all source code repositories managed through our GitHub organizations.
+Lutervyn takes the security of our software products and services seriously, which includes all source code repositories managed through our GitHub organizations.
 
-If you believe you have found a security vulnerability in any Microsoft-owned repository that meets [Microsoft's definition of a security vulnerability](https://aka.ms/security.md/definition), please report it to us as described below.
+If you believe you have found a security vulnerability in any Lutervyn-owned repository that meets [Lutervyn's definition of a security vulnerability](https://github.com/Lutervyn/.github/blob/main/SECURITY.md#definition), please report it to us as described below.
 
 ## Reporting Security Issues
 
 **Please do not report security vulnerabilities through public GitHub issues.**
 
-Instead, please report them to the Microsoft Security Response Center (MSRC) at [https://msrc.microsoft.com/create-report](https://aka.ms/security.md/msrc/create-report).
+Instead, please report them to the Lutervyn Security Team at [security@lutervyn.com](mailto:security@lutervyn.com).
 
-You should receive a response within 24 hours. If for some reason you do not, please follow up using the messaging functionality found at the bottom of the Activity tab on your vulnerability report on [https://msrc.microsoft.com/report/vulnerability](https://msrc.microsoft.com/report/vulnerability/) or via email as described in the instructions at the bottom of [https://msrc.microsoft.com/create-report](https://aka.ms/security.md/msrc/create-report). Additional information can be found at [microsoft.com/msrc](https://www.microsoft.com/msrc) or on MSRC's [FAQ page for reporting an issue](https://www.microsoft.com/en-us/msrc/faqs-report-an-issue).
+You should receive a response within 24 hours. Additional information can be found at [lutervyn.com/security](https://www.lutervyn.com/security).
 
 Please include the requested information listed below (as much as you can provide) to help us better understand the nature and scope of the possible issue:
 
@@ -26,7 +26,7 @@ Please include the requested information listed below (as much as you can provid
 
 This information will help us triage your report more quickly.
 
-If you are reporting for a bug bounty, more complete reports can contribute to a higher bounty award. Please visit our [Microsoft Bug Bounty Program](https://aka.ms/security.md/msrc/bounty) page for more details about our active programs.
+If you are reporting for a bug bounty, more complete reports can contribute to a higher bounty award. Please visit our [Lutervyn Bug Bounty Program](https://github.com/Lutervyn/.github/blob/main/SECURITY.md#bounty) page for more details about our active programs.
 
 ## Preferred Languages
 
@@ -34,6 +34,6 @@ We prefer all communications to be in English.
 
 ## Policy
 
-Microsoft follows the principle of [Coordinated Vulnerability Disclosure](https://aka.ms/security.md/cvd).
+Lutervyn follows the principle of [Coordinated Vulnerability Disclosure](https://github.com/Lutervyn/.github/blob/main/SECURITY.md#cvd).
 
-<!-- END MICROSOFT SECURITY.MD BLOCK -->
+<!-- END LUTERVYN SECURITY.MD BLOCK -->

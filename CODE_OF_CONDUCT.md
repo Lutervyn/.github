@@ -1,9 +1,9 @@
-# Microsoft Open Source Code of Conduct
+# Lutervyn Open Source Code of Conduct
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
+This project has adopted the [Lutervyn Open Source Code of Conduct](https://github.com/Lutervyn/.github/blob/main/CODE_OF_CONDUCT.md).
 
 Resources:
 
-- [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/)
-- [Microsoft Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/)
-- Contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with questions or concerns
+- [Lutervyn Open Source Code of Conduct](https://github.com/Lutervyn/.github/blob/main/CODE_OF_CONDUCT.md)
+- [Lutervyn Code of Conduct FAQ](https://github.com/Lutervyn/.github/blob/main/CODE_OF_CONDUCT.md)
+- Contact [support@lutervyn.com](mailto:support@lutervyn.com) with questions or concerns
