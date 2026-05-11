@@ -1,8 +1,8 @@
 # Lutervyn Documentation Index
 
 **Last Updated**: May 12, 2026  
-**Total Documents**: 185 files across 18 categories  
-**Status**: Comprehensive | Enterprise-Ready
+**Total Documents**: 192 files across 22 categories + 4 new legal/executive directories
+**Status**: Comprehensive | Enterprise-Ready | Final Completion
 
 ---
 
@@ -295,6 +295,105 @@
 - Corporate Social Responsibility
 - Diversity, Equity & Inclusion (DEI) Initiatives
 - Environmental/Sustainability Policy
+
+---
+
+### 📜 Legal Templates & Contracts
+**Location**: `.github/legal-templates/`  
+**Purpose**: Standardized contract templates for internal use  
+**Status**: NEW - Added May 2026
+**Key Files**:
+- [Portal](legal-templates/Portal.md) - Navigation hub and usage guide
+- [NDA Template](legal-templates/NDA_Template.md) - Non-Disclosure Agreement
+- [Customer Agreement Template](legal-templates/Customer_Agreement_Template.md) - Customer service terms
+- [Employment Offer Letter Template](legal-templates/Employment_Offer_Letter_Template.md) - Offer letters
+- [Vendor/Supplier Agreement Template](legal-templates/Vendor_Agreement_Template.md) - Vendor relationships
+- [Contractor/Consultant Agreement Template](legal-templates/Contractor_Agreement_Template.md) - Independent contractors
+
+**Purpose**: All templates customizable and require legal review before execution
+
+**Related**:
+- [Legal & Corporate](legal/) - Legal compliance
+- [Executive](executive/) - Board approvals
+
+---
+
+### 🏢 Strategic Transactions & M&A
+**Location**: `.github/strategic-transactions/`  
+**Purpose**: M&A, partnerships, major business transactions  
+**Status**: NEW - Added May 2026
+**Key Files**:
+- [Portal](strategic-transactions/Portal.md) - Navigation hub
+- [Acquisition Due Diligence Checklist](strategic-transactions/Acquisition_Due_Diligence_Checklist.md) - M&A assessment
+- [Partnership Evaluation Framework](strategic-transactions/Partnership_Evaluation_Framework.md) - Strategic partnerships
+
+**Scope**: 
+- Comprehensive due diligence across 10 categories (financial, legal, technical, operational, etc.)
+- Partnership evaluation with scoring matrix
+- Deal timelines and integration planning
+- Risk assessment and red flag identification
+
+**Related**:
+- [Vendor Management](vendor-management/) - Partnership management
+- [Executive](executive/) - Board authority
+
+---
+
+### 👔 Executive Operations & Governance (Enhanced)
+**Location**: `.github/executive/`  
+**Purpose**: C-level procedures, board management, governance  
+**Status**: EXPANDED - Enhanced May 2026
+**Key Files**:
+- [Portal](executive/Portal.md) - Navigation hub
+- [Executive Team Operating Procedures](executive/Executive_Team_Operating_Procedures.md) - C-level framework
+- [Board Meeting Protocols & Governance](executive/Board_Meeting_Protocols.md) - Board procedures (22 sections)
+- [C-Level Decision Framework](executive/C_Level_Decision_Framework.md) - Decision authority matrix
+
+**Coverage**:
+- Executive team composition and decision authority (CEO, CFO, CTO, CPO, COO)
+- Meeting cadence and governance (weekly exec, monthly all-hands, quarterly board)
+- Strategic planning cycle (annual and quarterly)
+- Board composition, committees, and voting procedures
+- Decision process (5 steps with SLAs: 3-30 days by amount)
+- Emergency decision procedures
+- Board member evaluation and compensation
+
+**Key Roles**:
+- CEO: Strategic decisions, >$100K investment authority
+- CFO: Financial decisions, budget management
+- CTO: Technology and engineering decisions
+- CPO: Product and roadmap decisions
+- COO: Operations and vendor management
+
+**Related**:
+- [Legal Templates](legal-templates/) - Contract approvals
+- [Strategic Transactions](strategic-transactions/) - M&A decisions
+- [Vendor Management](vendor-management/) - Partnership approvals
+
+---
+
+### 🤝 Vendor & Partner Management (Enhanced)
+**Location**: `.github/vendor-management/`  
+**Purpose**: Vendor evaluation, SLA tracking, relationship management  
+**Status**: EXPANDED - Enhanced May 2026
+**Key Files**:
+- [Portal](vendor-management/Portal.md) - Navigation hub
+- [Vendor Evaluation & Selection Criteria](vendor-management/Vendor_Evaluation_Selection.md) - 5-phase evaluation process
+- [SLA & Vendor Performance Tracking](vendor-management/SLA_Performance_Tracking.md) - Performance management (2000+ lines)
+- [Partner Relationship Management](vendor-management/Partner_Relationship_Management.md) - Ongoing relationships
+
+**Coverage**:
+- Vendor evaluation matrix with 5 scoring categories (40+ evaluation criteria)
+- SLA components: Uptime, response time, support coverage
+- Service credits: 5-25% based on uptime performance
+- Monthly/quarterly/annual performance reviews
+- Issue escalation (4 levels, 5-15 day timelines)
+- Performance dashboard and KPI tracking
+- Vendor termination procedures
+
+**Related**:
+- [Finance](finance/) - Procurement
+- [Sales](sales-bizdev/) - Partnerships
 
 ---
 
